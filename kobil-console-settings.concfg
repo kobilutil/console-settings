@@ -13,6 +13,8 @@
 		yellow:       #657b83 -> #C8C800
 		dark_gray:    #073642 -> #646464
 		gray:         #eee8d5 -> #AFAFAF
+		cyan:         #93a1a1 -> #93C8C8
+		green:        #586e75 -> #58C800
 
 		screen_colors	blue,black -> gray,black
 		popup_colors: 	yellow,white -> green,white
@@ -28,8 +30,8 @@
 	"gray":         "#AFAFAF",
 	"dark_gray":    "#808080",
 	"blue":         "#8394FF",
-	"green":        "#586e75",
-	"cyan":         "#93a1a1",
+	"green":        "#58C800",
+	"cyan":         "#93C8C8",
 	"red":          "#cb4b16",
 	"magenta":      "#6c71c4",
 	"yellow":       "#C8C800",
