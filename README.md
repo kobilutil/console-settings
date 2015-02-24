@@ -5,9 +5,13 @@ Default settings and color scheme for Windows console that looks good in cmd.exe
 The easiest way is via the useful [concfg] utility.
 
 ## Screenshots
-
+kobil's settings<br>
 ![kobil]
+
+solarized preset from [concfg]<br>
 ![solarized]
+
+default windows console settings<br>
 ![initial]
 
 [PSReadLine]: https://github.com/lzybkr/PSReadLine
